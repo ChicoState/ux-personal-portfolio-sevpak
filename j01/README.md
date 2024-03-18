@@ -10,7 +10,7 @@ As an avid TV show binger and movie watcher, I have a plethora of streaming serv
 At the end of a long day, I open my laptop and head to Amazon Prime Video to continue a show that I have been watching. I expect to be able to get right back into the show I had been watching by being given a recently watched or continue playing row. This is because it has become a **convention** for layouts to be displayed using rows and to have a continue watching row. However, this isn't always the case with Prime Video. A continue watching row is included, but most of the time it is either so low in the list I have to scroll and find it anyway or is simply just not there. 
 
 
-https://github.com/ChicoState/ux-personal-portfolio-sevpak/assets/157544592/df2068c2-ea13-4bee-a95e-8e1fdfcbffe9
+![Adobe Express 2024-03-17 22 09 59](https://github.com/ChicoState/ux-personal-portfolio-sevpak/assets/157544592/2b7fd4ef-de8f-49ee-96e6-b9684a4fef07)
 
 
 You can see in this recording that there is no recent row even though I had just exited out of one of my shows. For most other services all it takes is two clicks. One slick to open the site, and another to click on the show itself. From there the content just starts playing. With Amazon Video I open the website, see that my recent shows aren't there then have to scroll to find if they are even on my homepage at all. Even then, I don't find it all the time and have to enter the search to look up my show manually. 
