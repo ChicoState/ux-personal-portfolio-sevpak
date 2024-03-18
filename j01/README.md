@@ -2,7 +2,8 @@
 
 As an avid TV show binger and movie watcher, I have a plethora of streaming services and apps that host my shows. It is quite frustrating already having 6 different websites to visit when looking for something to watch, but one in particular makes the whole process even worse. Amazon Prime Video takes the cake as my least favorite of them all. Generally, all of these services use the same basic layout of genre rows and shows listed within those scrollable rows. Netflix and HBO are laid out very similar in this way:
 
-! (https://github.com/ChicoState/ux-personal-portfolio-sevpak/blob/master/j01/max_ss.png?raw=true)
+<img width="1512" alt="netflix_ss" src="https://github.com/ChicoState/ux-personal-portfolio-sevpak/assets/157544592/87e1f7a3-92a0-4f03-8f19-7da4fced6648">
+
 
 At the end of a long day, I open my laptop and head to Amazon Prime Video to continue a show that I have been watching. I expect to be able to get right back into the show I had been watching by being given a recently watched or continue playing row. This is because it has become a convention for layouts to be displayed using rows and to have a continue watching row. However, this isn't always the case with Prime Video. A continue watching row is included, but most of the time it is either so low in the list I have to scroll and find it anyway or is simply just not there. 
 
