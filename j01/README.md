@@ -1,8 +1,6 @@
 # First Journal Entry...
 
-As an avid TV show binger and movie watcher, I have a plethora of streaming services and apps that host my shows. It is quite frustrating already having 6 different websites to visit when looking for something to watch, but one in particular makes the whole process even worse. Amazon Prime Video takes the cake as my least favorite of them all. Generally, all of these services use the same basic layout of genre rows and shows listed within those scrollable rows.
-
-Netflix and HBO are laid out very similar in this way.
+As an avid TV show binger and movie watcher, I have a plethora of streaming services and apps that host my shows. It is quite frustrating already having 6 different websites to visit when looking for something to watch, but one in particular makes the whole process even worse. Amazon Prime Video takes the cake as my least favorite of them all. Generally, all of these services use the same basic layout of genre rows and shows listed within those scrollable rows. Netflix and HBO are laid out very similar in this way:
 
 At the end of a long day, I open my laptop and head to Amazon Prime Video to continue a show that I have been watching. I expect to be able to get right back into the show I had been watching by being given a recently watched or continue playing row. This is because it has become a convention for layouts to be displayed using rows and to have a continue watching row. However, this isn't always the case with Prime Video. A continue watching row is included, but most of the time it is either so low in the list I have to scroll and find it anyway or is simply just not there. 
 
@@ -10,6 +8,6 @@ You can see in this recording that there is no recent row even though I had just
 
 The nice thing about TV and movie streaming services is that they offer a huge catalog of content to watch. This does, however, come with a cost. That cost is that it can be hard to find something to watch with so many different options to choose from. Part of this choosing process includes opening many different subpages within Amazon Prime Video. I'll click on a genre here, then a movie in that genre, and then maybe click on a related movie in the description of the previous one. Now I need to get back to the home page because I want to search elsewhere on the site. When trying to get back to the main page of a website, nothing is more inviting than clicking their big huge logo in the top corner of the screen. I do this for Amazon Prime Video, and it takes me back to the Amazon storefront page, not the Prime Video home page. 
 
-The Amazon storefront page has a small Prime Video button listed as the third option in the top category bar. This just adds more clicks and more waiting for loading.
+The Amazon storefront page has a small Prime Video button listed as the third option in the top category bar. This just adds more clicks and more waiting for loading
 
 At this point, I am annoyed because I now don't have a show to watch, and am not even on the streaming service website. I understand that Amazon is not a streaming service first, but I would expect that links within the streaming service site keep me within the streaming service site. This goes against my mental model of the website, as every other service does this in the way that I expect.
