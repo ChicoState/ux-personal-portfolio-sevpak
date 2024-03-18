@@ -21,6 +21,8 @@ You can see in this recording that there is no recent row even though I had just
 
 The nice thing about TV and movie streaming services is that they offer a huge catalog of content to watch. This does, however, come with a cost. That cost is that it can be hard to find something to watch with so many different options to choose from. Part of this choosing process includes opening many different subpages within Amazon Prime Video. I'll click on a genre here, then a movie in that genre, and then maybe click on a related movie in the description of the previous one. Now I need to get back to the home page because I want to search elsewhere on the site. When trying to get back to the main page of a website, nothing is more inviting than clicking their big huge logo in the top corner of the screen. I do this for Amazon Prime Video, and it takes me back to the Amazon storefront page, not the Prime Video home page. 
 
+<img width="1505" alt="amazon_storefront_apge" src="https://github.com/ChicoState/ux-personal-portfolio-sevpak/assets/157544592/ee5ea2c4-ad1d-4db4-bd4a-1224fa74b812">
+
 The Amazon storefront page has a small Prime Video button listed as the third option in the top category bar. This just adds more clicks and more waiting for loading
 
 At this point, I am annoyed because I now don't have a show to watch, and am not even on the streaming service website. I understand that Amazon is not a streaming service first, but I would expect that links within the streaming service site keep me within the streaming service site. This goes against my mental model of the website, as every other service does this in the way that I expect.
