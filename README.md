@@ -7,7 +7,7 @@ I enjoy spending time outdoors with my friends and love learning/exploring new t
 
 ## UX Team Project
 
-Coming soon.
+[Rosetta Song](https://github.com/ChicoState/ux-rosetta-song)
 
 ## UX Journal
 
